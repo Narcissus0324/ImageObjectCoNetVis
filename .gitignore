@@ -1,0 +1,4 @@
+# 忽略特定目录
+comment_data/
+result_*/
+resource/
