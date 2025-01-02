@@ -19,3 +19,4 @@ Torch 2.1
    6. translate_recognition.py，将评论与图像识别结果匹配（问题3）
 
    其他py文件是依赖文件，请勿删除
+   具体结论请查看report文件夹
